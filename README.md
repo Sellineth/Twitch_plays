@@ -12,4 +12,4 @@ TERRARIA KEYBOARD<br />
 CYBER PUNK 2077 KEYBOARD<br />
 CYBER PUNK 2077 CONTROLLER<br />
 NIER AUTOMATA CONTROLLER<br />
-DRAGON'S DOGMA: DARK ARISEN<br />
+DRAGON'S DOGMA: DARK ARISEN : https://github.com/Sellineth/Twitch_plays/blob/main/Controls_DDDA<br />
