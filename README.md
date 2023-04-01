@@ -45,7 +45,7 @@ NIER AUTOMATA CONTROLLER<br />
   "hold lt", "hold left trigger", "hold lefttrigger", "hlt", "aim" will hold my left trigger for 30 secconds<br />
   "release left trigger", "rlt" will release my left trigger if someone used hold left trigger<br />
   "fire arrow", "shoot", "right trigger", "rt", "heavy attack" wil press my right trigger<br />
-  "hold rt", "hold right trigger", "hrt"] will hold my right trigger for 10 secconds<br />
+  "hold rt", "hold right trigger", "hrt" will hold my right trigger for 10 secconds<br />
   "release rt", "release right trigger" will release my right trigger if someone used hold right trigger<br /><br />
   "right shoulder", "rb", "light attack", "attack" will press my right shoulder/bumper<br />
   "left shoulder", "lb", "shield", "defend" will press my left shoulder/bumper<br /><br />
