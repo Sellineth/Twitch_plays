@@ -11,6 +11,7 @@ DARKEST DUNGEON CONTOLLER<br />
 TERRARIA KEYBOARD<br />
 CYBER PUNK 2077 KEYBOARD<br />
 CYBER PUNK 2077 CONTROLLER<br />
+NIER AUTOMATA CONTROLLER<br />
 <details>
   <summary>DARK SOULS REMASTERED : </summary><br />
    Camera:<br /><br />
@@ -64,7 +65,7 @@ CYBER PUNK 2077 CONTROLLER<br />
   "pause", "start", "menu" will press my start/pause button<br />
 
 </details>
-NIER AUTOMATA CONTROLLER<br />
+
 <details>
   <summary>DRAGON'S DOGMA: DARK ARISEN : </summary><br />
   
