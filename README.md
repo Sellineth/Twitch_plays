@@ -37,7 +37,7 @@ NIER AUTOMATA CONTROLLER<br />
   "return", "back", "b", "roll" will press my B button<br />
   "hold_b_1sec", "hold b" will hold my B button for 1 seccond <br />
   "use item", "heal", "x" will press my X button<br />
-  "y" will press my Y button<br /><br />
+  "y", "two handed", "two hand" will press my Y button<br /><br />
 
   <h4>Triggers and shoulder/bumpers:<br /><br /></h4>
 
