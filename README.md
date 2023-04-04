@@ -5,11 +5,29 @@ Games that i have made the code already are:<br /><br />
 
 <details>
   <summary>Games for Controller : </summary><br />
+  
+<!-- SKYRIM -->
+  
   SKYRIM CONTROLLER<br />
+  
+<!-- FALLOUT 4 -->
+  
   FALLOUT4 CONTROLLER<br />
+  
+<!-- DARKEST DUNGEON -->
+  
   DARKEST DUNGEON CONTOLLER<br />
-  CYBER PUNK 2077 CONTROLLER<br />
+  
+<!-- CYBERPUNK 2077 -->
+  
+  CYBERPUNK 2077 CONTROLLER<br />
+
+<!-- NIER AUTOMATA -->
+  
   NIER AUTOMATA CONTROLLER<br />
+ 
+<!-- DARK SOULS REMASTER -->
+ 
  <details>
   <summary>DARK SOULS REMASTERED : </summary><br />
    Camera:<br /><br />
@@ -64,6 +82,8 @@ Games that i have made the code already are:<br /><br />
 
  </details>
 
+ <!-- DRAGON'S DOGMA -->
+  
  <details>
   <summary>DRAGON'S DOGMA: DARK ARISEN : </summary><br />
   
