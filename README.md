@@ -2,17 +2,15 @@
 My version of twitch plays inspired by DougDoug, used his code as base and made a lot of changes<br />
 
 Games that i have made the code already are:<br /><br />
-MORROWIND FOR KEYBOARD<br />
-SKYRIM FOR KEYBOARD<br />
-SKYRIM CONTROLLER<br />
-FALLOUT4 KEYBOARD<br />
-FALLOUT4 CONTROLLER<br />
-DARKEST DUNGEON CONTOLLER<br />
-TERRARIA KEYBOARD<br />
-CYBER PUNK 2077 KEYBOARD<br />
-CYBER PUNK 2077 CONTROLLER<br />
-NIER AUTOMATA CONTROLLER<br />
+
 <details>
+  <summary>Games for controller : </summary><br />
+  SKYRIM CONTROLLER<br />
+  FALLOUT4 CONTROLLER<br />
+  DARKEST DUNGEON CONTOLLER<br />
+  CYBER PUNK 2077 CONTROLLER<br />
+  NIER AUTOMATA CONTROLLER<br />
+ <details>
   <summary>DARK SOULS REMASTERED : </summary><br />
    Camera:<br /><br />
 
@@ -64,15 +62,15 @@ NIER AUTOMATA CONTROLLER<br />
   "select", "gesture", "gestures" will press may back/select button<br />
   "pause", "start", "menu" will press my start/pause button<br />
 
-</details>
+ </details>
 
-<details>
+ <details>
   <summary>DRAGON'S DOGMA: DARK ARISEN : </summary><br />
   
   >"quicksave", "quick save", "save", "f5" will do a quicksave<br />
   "quickcheckpoint" "quick checkpoint", "checkpoint", "f9" will do a checkpoint<br /><br />
 
- Camera:<br /><br />
+  Camera:<br /><br />
 
   >"lookup", "lup", "look up" will move the right analog up<br />
   "lookdown", "ldown", "look down" will move the right analog down<br />
@@ -122,5 +120,15 @@ NIER AUTOMATA CONTROLLER<br />
   "r3" will press R3<br /><br />
   "select", "inventory" will press may back/select button<br />
   "pause", "start" will press my start/pause button<br />
-
+ </details>
 </details>
+MORROWIND FOR KEYBOARD<br />
+SKYRIM FOR KEYBOARD<br />
+FALLOUT4 KEYBOARD<br />
+
+
+TERRARIA KEYBOARD<br />
+CYBER PUNK 2077 KEYBOARD<br />
+
+
+
