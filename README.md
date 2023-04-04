@@ -4,7 +4,7 @@ My version of twitch plays inspired by DougDoug, used his code as base and made 
 Games that i have made the code already are:<br /><br />
 
 <details>
-  <summary>Games for controller : </summary><br />
+  <summary>Games for Controller : </summary><br />
   SKYRIM CONTROLLER<br />
   FALLOUT4 CONTROLLER<br />
   DARKEST DUNGEON CONTOLLER<br />
@@ -122,13 +122,12 @@ Games that i have made the code already are:<br /><br />
   "pause", "start" will press my start/pause button<br />
  </details>
 </details>
-MORROWIND FOR KEYBOARD<br />
-SKYRIM FOR KEYBOARD<br />
-FALLOUT4 KEYBOARD<br />
 
-
-TERRARIA KEYBOARD<br />
-CYBER PUNK 2077 KEYBOARD<br />
-
-
-
+<details>
+  <summary>Games for Keyboard and Mouse : </summary><br />
+  MORROWIND FOR KEYBOARD<br />
+  SKYRIM FOR KEYBOARD<br />
+  FALLOUT4 KEYBOARD<br />
+  TERRARIA KEYBOARD<br />
+  CYBER PUNK 2077 KEYBOARD<br />
+</details>
