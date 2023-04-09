@@ -190,43 +190,43 @@ CYBERPUNK 2077 CONTROLLER<br />
 <details><!-- HOLLOW KNIGHT -->
     <summary>HOLLOW KNIGHT : </summary><br />
 
-    <h4>Camera:<br /><br /></h4>
+    Camera:
 
-    >"lookup", "lup", "look up" will move the right analog up<br />
-    "lookdown", "ldown", "look down" will move the right analog down<br />
+    "lookup", "lup", "look up" will move the right analog up
+    "lookdown", "ldown", "look down" will move the right analog down
 
-    <h4>Movement:<br /><br /></h4>
+    Movement:
 
-    >"up" will move the left analog up<br />
-    "down" will move the left analog down<br />
-    "left" will move the left analog left<br />
-    "right" will move the left analog right<br /><br />
+    "up" will move the left analog up
+    "down" will move the left analog down
+    "left" will move the left analog left
+    "right" will move the left analog right
 
-    <h4>Buttons ABXY:<br /><br /></h4>
+    Buttons ABXY:
 
-    >"jump", "a" will press my A button<br />
-    "hold a" will hold my A button for 1 seccond <br />
-    "return", "back", "b", "spell" will press my B button<br />
-    "hold b", "heal" will hold my B button for 1 seccond <br />
-    "attack", "x" will press my X button<br />
-    "y" will press my Y button<br /><br />
+    "jump", "a" will press my A button
+    "hold a" will hold my A button for 1 seccond
+    "return", "back", "b", "spell" will press my B button
+    "hold b", "heal" will hold my B button for 1 seccond
+    "attack", "x" will press my X button
+    "y" will press my Y button
 
-    <h4>Triggers and shoulder/bumpers:<br /><br /></h4>
+    Triggers and shoulder/bumpers:
 
-    >"dash", "right trigger", "rt" wil press my right trigger<br />
-    "right shoulder", "rb", "quick spell" will press my right shoulder/bumper<br />
+    "dash", "right trigger", "rt" wil press my right trigger
+    "right shoulder", "rb", "quick spell" will press my right shoulder/bumper
 
-    <h4>Dpads:<br /><br /></h4>
+    Dpads:
 
-    >"dup", "dpadup", "d pad up" will press my d pad up button<br />
-    "dup", "dpaddown", "d pad down" will press my d pad down button<br />
-    "dleft", "dpadleft", "d pad left" will press my d pad left button<br />
-    "dright", "dpadright", "d pad right" will press my d pad right button<br /><br />
+    "dup", "dpadup", "d pad up" will press my d pad up button
+    "dup", "dpaddown", "d pad down" will press my d pad down button
+    "dleft", "dpadleft", "d pad left" will press my d pad left button
+    "dright", "dpadright", "d pad right" will press my d pad right button
 
-    <h4>Other buttons:<br /><br /></h4>
+    Other buttons:
 
-    >"select", "inventory" will press may back/select button<br />
-    "pause", "start" will press my start/pause button<br />
+    "select", "inventory" will press may back/select button
+    "pause", "start" will press my start/pause button
 </details>
 
 <summary>Games for Keyboard and Mouse : </summary><br />
