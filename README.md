@@ -3,18 +3,25 @@ My version of twitch plays inspired by DougDoug, used his code as base and made 
 
 Games that i have made the code already are:<br /><br />
 
-
 <summary>Games for Controller : </summary><br />
+
+<!-- SKYRIM -->
 
 SKYRIM CONTROLLER<br />
 
+<!-- FALLOUT 4 -->
+
 FALLOUT4 CONTROLLER<br />
+
+<!-- DARKEST DUNGEON -->
 
 DARKEST DUNGEON CONTOLLER<br />
 
+<!-- CYBERPUNK 2077 -->
+
 CYBERPUNK 2077 CONTROLLER<br />
 
-<details>
+<details><!-- NIER AUTOMATA -->
     <summary>NIER AUTOMATA CONTROLLER: </summary><br />
     >"quicksave", "quick save", "save", "f5" -- will send the F5 key and save the game when it's possible to save
     "quickload" "quick sload", "load", "f9" -- Will send the F9 key and load the game
@@ -69,7 +76,7 @@ CYBERPUNK 2077 CONTROLLER<br />
     start_ = ["pause", "start"]
 </details>
 
-<details>
+<details><!-- DARK SOULS REMASTER -->
     <summary>DARK SOULS REMASTERED : </summary><br />
     Camera:<br /><br />
 
@@ -122,8 +129,8 @@ CYBERPUNK 2077 CONTROLLER<br />
     "pause", "start", "menu" will press my start/pause button<br />
 </details>
 
-<details>
-    summary>DRAGON'S DOGMA: DARK ARISEN : </summary><br />
+<details><!-- DRAGON'S DOGMA -->
+    <summary>DRAGON'S DOGMA: DARK ARISEN : </summary><br />
 
     >"quicksave", "quick save", "save", "f5" will do a quicksave<br />
     "quickcheckpoint" "quick checkpoint", "checkpoint", "f9" will do a checkpoint<br /><br />
@@ -180,8 +187,8 @@ CYBERPUNK 2077 CONTROLLER<br />
     "pause", "start" will press my start/pause button<br />
 </details>
 
-<details>
-    summary>HOLLOW KNIGHT : </summary><br />
+<details><!-- HOLLOW KNIGHT -->
+    <summary>HOLLOW KNIGHT : </summary><br />
 
     <h4>Camera:<br /><br /></h4>
 
@@ -222,12 +229,9 @@ CYBERPUNK 2077 CONTROLLER<br />
     "pause", "start" will press my start/pause button<br />
 </details>
 
-
-<details>
-    <summary>Games for Keyboard and Mouse : </summary><br />
-    MORROWIND FOR KEYBOARD<br />
-    SKYRIM FOR KEYBOARD<br />
-    FALLOUT4 KEYBOARD<br />
-    TERRARIA KEYBOARD<br />
-    CYBER PUNK 2077 KEYBOARD<br />
-</details>
+<summary>Games for Keyboard and Mouse : </summary><br />
+MORROWIND FOR KEYBOARD<br />
+SKYRIM FOR KEYBOARD<br />
+FALLOUT4 KEYBOARD<br />
+TERRARIA KEYBOARD<br />
+CYBER PUNK 2077 KEYBOARD<br />
