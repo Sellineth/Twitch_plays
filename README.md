@@ -1,26 +1,21 @@
+# Twitch_plays
+My version of twitch plays inspired by DougDoug, used his code as base and made a lot of changes<br />
+
 Games that i have made the code already are:<br /><br />
 
 <details>
     <summary>Games for Controller : </summary><br />
 
-<!-- SKYRIM -->
-
     SKYRIM CONTROLLER<br />
-
-<!-- FALLOUT 4 -->
 
     FALLOUT4 CONTROLLER<br />
 
-<!-- DARKEST DUNGEON -->
-
     DARKEST DUNGEON CONTOLLER<br />
-
-<!-- CYBERPUNK 2077 -->
 
     CYBERPUNK 2077 CONTROLLER<br />
 
-    <details><!-- NIER AUTOMATA -->
-        <summary>NIER AUTOMATA CONTROLLER</summary><br />
+    <details>
+        <summary>NIER AUTOMATA CONTROLLER: </summary><br />
         >"quicksave", "quick save", "save", "f5" -- will send the F5 key and save the game when it's possible to save
         "quickload" "quick sload", "load", "f9" -- Will send the F9 key and load the game
 
@@ -73,7 +68,8 @@ Games that i have made the code already are:<br /><br />
         back_ = ["select"]
         start_ = ["pause", "start"]
     </details>
-    <details><!-- DARK SOULS REMASTER -->
+
+    <details>
         <summary>DARK SOULS REMASTERED : </summary><br />
         Camera:<br /><br />
 
@@ -126,7 +122,7 @@ Games that i have made the code already are:<br /><br />
         "pause", "start", "menu" will press my start/pause button<br />
     </details>
 
-    <details><!-- DRAGON'S DOGMA -->
+    <details>
         summary>DRAGON'S DOGMA: DARK ARISEN : </summary><br />
 
         >"quicksave", "quick save", "save", "f5" will do a quicksave<br />
@@ -184,7 +180,7 @@ Games that i have made the code already are:<br /><br />
         "pause", "start" will press my start/pause button<br />
     </details>
 
-    <details><!-- HOLLOW KNIGHT -->
+    <details>
         summary>HOLLOW KNIGHT : </summary><br />
 
         <h4>Camera:<br /><br /></h4>
